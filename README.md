@@ -23,6 +23,7 @@ Shopee React Knowledgeable is a talk series focusing on technology, ideas, and e
 ### Upcoming
 
 - [#2: Oct 12, 2018](./weekly/no-2-oct-12.md)
+- [#3: Oct 19, 2018](./weekly/no-3-oct-19.md)
 
 ### Past
 
